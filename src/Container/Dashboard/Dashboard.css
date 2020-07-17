@@ -1,0 +1,14 @@
+.main_dashboard_container{
+    background:#000000;
+}
+.categories_tabs{
+    color:#ffffff;
+}
+.core_img_structure img{
+   width:550px;
+    margin: 0 auto;
+}
+.coming_soon_text_structure{
+    font-size: 18px;
+     color:#ffffff;    
+}

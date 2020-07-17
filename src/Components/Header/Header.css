@@ -1,0 +1,60 @@
+ .ant-tabs-nav-list{
+    display: inline-flex;
+}
+.ant-tabs-tab-btn{
+    padding-right: 30px;
+    outline: none;
+    color:#ffffff;
+   
+    
+}
+.user_Link_list_structure{
+    padding-top: 19px;
+}
+.user_list_sructure button{
+    width: 130px;
+    height: 41px;
+    border-radius: 20px;
+    outline: none;
+    background: #ffffff;
+}
+.header_structure_space_x{
+    display: flex;
+     width:100%;
+}
+/* .ant-tabs-tab-btn:hover{
+    border-bottom: 2px solid #ffffff;
+} */
+.logo-space-y{
+    height: 95px;
+    width: 201px;
+    display: flex;
+   
+
+}
+.tab_structure{
+   padding: 0px 42px 0px 42px;
+}
+.Logout_structure{
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px 30px 9px 30px;
+}
+.Logout_structure button{
+    width: 130px;
+    height: 41px;
+    border-radius: 20px;
+    outline: none;
+    background: #ffffff;
+} 
+
+ .user_list_sructure{
+    padding: 10px 0px 10px 45px;
+    color: #ffffff;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.left_side_btn_structure{
+    display: flex;
+}

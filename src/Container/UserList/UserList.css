@@ -1,0 +1,63 @@
+.table_structure{
+    width:90%;
+    margin :0 auto;
+    padding-top: 10px;
+    box-shadow: 0 6px 15px rgba(36,37,38,.3);
+    transition: box-shadow .25s ease,transform .25s ease
+}
+.add_btn_structure{
+    padding: 10px 80px 10px 10px;
+     display: flex;
+     justify-content: flex-end;
+}
+.ant-table-cell{
+    text-align: center !important;
+     font-size: 16px;
+}
+.add_btn_structure button{
+width: 130px;
+height: 41px;
+border-radius: 20px;
+outline: none;
+background: #ffffff;
+}
+.add_btn_structure_1 button{
+    width: 130px;
+    height: 41px;
+    border-radius: 20px;
+    outline: none;
+    background: #ffffff;
+
+
+}
+.ant-modal-body{
+    padding-top: 25px 25px 25px 25px !important;
+}
+.user_list{
+    left:-164px;
+}
+.ant-modal-content{
+    text-align: center;
+}
+.floating_modal_structure{
+    padding-top: 0px !important;
+
+}
+
+.btn_sign button{
+    background: #ffffff;
+    border-radius: 15px;
+    height: 48px;
+    font-size: 16px;
+    display: inline-flex;
+    padding: 7px 15px 5px;
+    align-items: center;
+    justify-content: center;
+    line-height: 20px;
+    transition: all .2s ease 0s;
+    letter-spacing: .5px;
+    outline:none;
+    border: none;
+}
+
+

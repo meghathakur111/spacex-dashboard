@@ -1,0 +1,54 @@
+.card_col_structure{
+    padding-bottom: 10px;
+}
+.card_structure{
+    background-color: #ffffff;
+     color:#000000;
+      height:290px;
+      border-radius: 10px;
+      overflow: hidden;
+      margin: auto;
+      box-shadow: 1px 1px 10px 0 rgba(36,37,38,.1);
+      transition: box-shadow .25s ease,transform .25s ease;
+      height:auto;
+      padding-bottom:10px;
+}
+.card_col_structure {
+    padding-bottom: 32px;
+}
+.card_structure:hover{
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.1226);
+    border-radius: 10px;
+    z-index: 2;
+    -webkit-transition: all .2s ease-in;
+    -webkit-transform: scale(1.05);
+    -ms-transition: all .2s ease-in;
+    -ms-transform: scale(1.05);
+    -moz-transition: all .2s ease-in;
+    -moz-transform: scale(1.05);
+    transition: all .2s ease-in;
+    transform: scale(1.05);
+    background-color: white;
+}
+
+.Dragon_img_structure{
+height: 180px;    
+}
+.data_structure_cap{
+    display:flex;
+    padding: 4px 0px 0px 4px;
+}
+.data_heading_structure{
+    font-size:16px;
+    color: #4b90e4;
+}
+.data_para_structure{
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.ant-tabs-content-holder{
+    padding-top:  10px;
+}
